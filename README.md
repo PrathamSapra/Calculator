@@ -23,33 +23,33 @@ To get started, make sure you have Python installed. Then, clone this repository
    ```bash
    git clone https://github.com/PrathamSapra/Calculator
 
-Navigate to the project directory:
+**_Navigate to the project directory:
 cd calculator
 
 
-Run the Python script:
+## **_Run the Python script:_**
 python calculator.py
 
 
-💻 Usage
+## **_💻 Usage_**
 Once you run the script, a calculator window will pop up. You can perform the following operations:
 
-Numeric buttons (0-9): Input numbers.
+## **_Numeric buttons (0-9): Input numbers._**
 Operator buttons (+, -, *, /): Perform arithmetic operations.
 Parentheses ( ): Group expressions for more complex calculations.
 Equal button (=): Get the result of your expression.
 Clear button (C): Clear all current input.
 
 
-🧑‍💻 Code Structure
+## **_🧑‍💻 Code Structure_**
 The main file, calculator.py, defines a Calculator class that manages both the user interface and the calculation logic.
 
-Key Methods:
+## **_Key Methods:_**
 show(value): Appends the clicked button's value to the expression.
 clear(): Clears the current input field.
 solve(): Evaluates the input expression and displays the result.
 
-📸 Screenshot
+## 📸 **_Screenshot_**
 
 
 
