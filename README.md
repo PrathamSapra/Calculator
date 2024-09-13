@@ -50,6 +50,9 @@ clear(): Clears the current input field.
 solve(): Evaluates the input expression and displays the result.
 
 📸 Screenshot
+
+
+
 ![image](https://github.com/user-attachments/assets/3d27f6aa-9054-4138-8f2c-877e20a32daa)
 
 
